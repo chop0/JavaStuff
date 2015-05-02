@@ -1,2 +1,2 @@
 # JavaStuff
-Swing, awt and oother stuff.
+Swing, awt and other stuff.
